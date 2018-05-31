@@ -1,0 +1,21 @@
+{
+  "name": "react-vanilla-tilt",
+  "version": "1.0.0",
+  "description": "React wrapper around vanilla-tilt",
+  "main": "dist.js",
+  "scripts": {
+    "build": "babel index.js -o dist.js"
+  },
+  "files": ["dist.js"],
+  "keywords": ["react", "vanilla", "tilt"],
+  "author": "siddharthkp",
+  "license": "MIT",
+  "dependencies": {
+    "vanilla-tilt": "1.4.1"
+  },
+  "devDependencies": {
+    "babel-cli": "6.26.0",
+    "babel-preset-env": "1.6.1",
+    "babel-preset-react": "6.24.1"
+  }
+}
