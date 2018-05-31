@@ -63,9 +63,13 @@ import Title from 'react-vanilla-tilt'
 
 &nbsp;
 
-#### kudos to @micku7zu and @gijsroge
+#### Related projects
 
-This is a React wrapper around [vanilla-tilt](https://github.com/micku7zu/vanilla-tilt.js) by [@micku7zu](https://github.com/micku7zu)
+- [card-vibes](https://github.com/siddharthkp/card-vibes): The card component with good vibes built on top of this project
+
+  Thanks to
+- [vanilla-tilt.js](https://github.com/micku7zu/vanilla-tilt.js) by [@micku7zu](https://github.com/micku7zu)
+- [tilt.js](https://github.com/gijsroge/tilt.js) by [@gijsroge](https://github.com/gijsroge)
 
 &nbsp;
 
